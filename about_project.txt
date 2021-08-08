@@ -1,0 +1,12 @@
+LaptopShop
+Jamee Shahriyar - A18CS3012
+Shahrul Asyraf Bin Muhammad Hisham Segaran - A17CS0201
+
+This project is an online commerce store for laptops. There are two types of users which are Staff and 
+Customer. Depending on which user logs in, the functions will be different. If Staff logs in, they are
+able to add, update, and delete the products in the store. If Customer logs in, they are able to view
+all the products and then buy the products. The database will store all the necessary information.
+
+
+Video Presentation
+YouTube Link - https://youtu.be/WJHg0qdfOKo

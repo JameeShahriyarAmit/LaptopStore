@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/web/customerRegistration.jsp</file>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/src/java/dao/CustomerDao.java</file>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/web/product-list2.jsp</file>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/web/customerLogin.jsp</file>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/src/java/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/src/java/model/Order.java</file>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/src/java/controller/ProductCRUDServlet2.java</file>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/web/product-form2.jsp</file>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/src/java/model/Product.java</file>
+            <file>file:/C:/Users/shahr/Documents/NetBeansProjects/RegistrationMVC/src/java/controller/Cart.java</file>
+        </group>
+    </open-files>
+</project-private>
